@@ -1,0 +1,2 @@
+qwertyuiopasdfghjklzxcvbnm
+Content written in the file to be displayed using node.js in the console. 
